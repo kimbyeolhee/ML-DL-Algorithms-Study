@@ -1,7 +1,6 @@
 # ML-DL-Algorithms-Study
 ---
-description: >-
-  특별 스터디입니다.
+ML, DL의 알고리즘을 공부하고 정리합니다.
 ---
 
 
