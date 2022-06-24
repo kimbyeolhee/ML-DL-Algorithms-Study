@@ -12,3 +12,4 @@
 # DL
 - [AutoEncoder](https://github.com/kimbyeolhee/ML-DL-Algorithms-Study/tree/main/DL/AutoEncoder)
 - [CNN](https://github.com/kimbyeolhee/ML-DL-Algorithms-Study/tree/main/DL/CNN)
+- [Transfer learning_VGG,Resnet](https://github.com/kimbyeolhee/ML-DL-Algorithms-Study/tree/main/DL/transfer%20learning_VGG%26Resnet)
